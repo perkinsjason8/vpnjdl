@@ -1,0 +1,1 @@
+<h1> AI Builders Digest 今日热点快报</h1><br><p><strong>2026年08月14日 14时14分23秒(UTC+8)</strong></p><br><hr><br><h2>一、国内时政</h2><br><h3>存储芯片价格触底反弹，DRAM、NAND 涨价周期开启，厂商盈利改善。</h3><br><p>国产光刻机研发提速，28nm 成熟，14nm 进入验证阶段。<br>
